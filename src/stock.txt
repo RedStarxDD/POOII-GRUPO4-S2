@@ -1,0 +1,12 @@
+Arroz, 50
+Frijoles, 30
+Azúcar, 20
+Aceite, 10
+Harina, 15
+cereal, 5
+choclo, 10
+zanahoria, 31
+tomate, 21
+chocolate, 7
+cerveza, 6
+Pizza, 45
